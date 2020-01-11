@@ -1,0 +1,48 @@
+Computer Science 10: Final Project Credits
+
+-- [ ART ] --
+
+All art is being used under fair use laws, under EDUCATION.
+
+Skeleton Art
+    www.opengameart.org
+
+Zombie Art
+    www.pinterest.ie (John Nguyen)
+
+Demon (Daemon) Art
+    www.FAVPNG.com
+
+Goose Art
+    House House
+
+CPU Art
+    computerscience.gcse.guru
+
+Circuit Pun Art
+    www.pinterest.ca/pin/468022586247613253/
+
+Player Art
+    www.pixelartmaker.com
+
+Armor Art
+    Mojang AB
+
+Bow Art
+    pixelartmaker.com
+
+Diamond pixel art (Ruin)
+    giphy.com
+
+Credits Background Image
+    https://twitter.com/talecrafter
+
+
+-- [ Code ] --
+
+All code is made by Avery Keuben
+
+-- [ EXTRAS ] --
+
+Thank you Mr. Wiebe for teaching me computer science this year. Even through I knew most of the stuff already, thank you for teaching me about CPU's, Transistors, and Logic Gates. I enjoyed your class this year, and am looking forwards to being in CS20-AP next year!
+Go Team 4733!
